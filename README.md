@@ -87,7 +87,3 @@ Roca, R., Alexander, L. V., Potter, G., Bador, M., Jucá, R., Contractor, S., Bo
 As this is an ongoing collection more data is added without chnages to the doi, so please specify date of access in your citation.
 
 Please note that this is a collection of datasets and the original sources should be cited too wherever possible.
-
-
-
-[Frequent Rainfall Observations on GridS (FROGS)](https://frogs.prod.lamp.cnrs.fr/)
