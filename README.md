@@ -79,13 +79,15 @@ Atmospheric reanalysis:
 - MERRA1
 - MERRA2
 
+## License
+
+Unknown.
+
 ## Data citation
 
 Roca, R., Alexander, L. V., Potter, G., Bador, M., Jucá, R., Contractor, S., Bosilovich, M. G., and Cloché, S.: FROGs: a daily 1×1 gridded precipitation database of rain gauge, satellite and reanalysis products, https://doi.org/10.14768/06337394-73A9-407C-9997-0E380DAC5598, 2019, accesed on <date>
 
 As this is an ongoing collection more data is added without chnages to the doi, so please specify date of access in your citation.
-
-Please note that this is a collection of datasets and the original sources should be cited too wherever possible.
 
 ## Reference
 
@@ -93,3 +95,11 @@ Roca R, Alexander LV, Potter G, Bador M, Jucá R, Contractor S, Bosilovich MG, a
 FROGS: a daily 1° × 1° gridded precipitation database of rain gauge, satellite and reanalysis products.
 *Earth System Science Data*, 11, 1017-1035.
 https://doi.org/10.5194/essd-11-1017-2019
+  
+## Acknowledgement
+  
+No statement provided.
+  
+## Author note
+  
+Please note that this is a collection of datasets and the original sources should be cited too wherever possible.
