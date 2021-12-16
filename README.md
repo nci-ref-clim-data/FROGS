@@ -107,3 +107,7 @@ No statement provided.
 ## Author note
   
 Please note that this is a collection of datasets and the original sources should be cited too wherever possible.
+  
+## Assistance
+
+For assistance with FROGS data on NCI, open a new issue at https://github.com/nci-ref-clim-data/FROGS/issues
