@@ -14,6 +14,10 @@ The data products spatial coverage is also dependent on the original sources.
 For more information please refer to the [FROGs website](https://frogs.prod.lamp.cnrs.fr/)
 and in particular to their news page for updates.
 
+## Data download
+
+TODO: Explain exactly where/how the data was downloaded from.
+
 ## Data location
 
 We've downloaded FROGS data to:
