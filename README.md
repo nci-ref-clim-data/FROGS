@@ -23,7 +23,7 @@ TODO: Explain exactly where/how the data was downloaded from.
 We've downloaded FROGS data to:
 
 ```
-/g/data/ia39/frogs/replica/data/1DD_V1/<dataset>/<files>
+/g/data/ia39/aus-ref-clim-data-nci/frogs/replica/data/1DD_V1/<dataset>/<files>
 ```
 
 Each `<dataset>` is listed below depending on the source data type and spatial coverage.
@@ -110,4 +110,4 @@ Please note that this is a collection of datasets and the original sources shoul
   
 ## Assistance
 
-For assistance with FROGS data on NCI, open a new issue at https://github.com/nci-ref-clim-data/FROGS/issues
+For assistance with FROGS data on NCI, open a new issue at https://github.com/aus-ref-clim-data-nci/FROGS/issues
