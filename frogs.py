@@ -65,7 +65,7 @@ def main():
         level = "debug"
     today = datetime.today().strftime('%Y-%m-%d')
     user = os.getenv("USER")
-    root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")`
+    root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")
     flog = f"{root_dir}/frogs/code/update_log.txt"
     getter = FTPGetter("ftp.climserv.ipsl.polytechnique.fr",
                         check='mdate', extension=".nc", flog=flog, level=level)
