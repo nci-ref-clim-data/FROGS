@@ -16,7 +16,8 @@ and in particular to their news page for updates.
 
 ## Data download
 
-TODO: Explain exactly where/how the data was downloaded from.
+The data is downloaded from the [IPSL ftp site](https://ftp.climserv.ipsl.polytechnique.fr/FROGs/1DD_V1/), using the frogs.py python code available in this repository.
+Updates of the original data are sporadic, we check if any update is available with monthly frequency. Tha automated updates are managed via the [Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/FROGs-ia39/).
 
 ## Data location
 
