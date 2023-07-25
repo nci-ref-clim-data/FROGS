@@ -235,7 +235,7 @@ class FTPGetter():
         finally:
             newFile.close()
             if isUpdate:
-               os.path.rename(f"{filename}.1", filename)
+               os.rename(f"{filename}.1", filename)
             return True
 
 
