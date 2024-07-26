@@ -1,0 +1,23 @@
+name: Run FROGS download code 
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 5 * *'
+
+jobs:
+  runcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run  
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{secrets.HOST}}
+          username: ${{secrets.USER}}
+          key: ${{secrets.SSH_KEY}}
+          passphrase: ${{secrets.PASSPHRASE}}
+          command_timeout: 120m
+          script: |
+              module use /g/data3/hh5/public/modules
+              module load conda/analysis3
+              cd /g/data/ia39/aus-ref-clim-data-nci/frogs/code
+              python3 frogs.py
