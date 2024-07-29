@@ -1,5 +1,7 @@
 # FROGS
 
+![workflow](https://github.com/aus-ref-clim-data-nci/FROGS/actions/workflows/frogs.yml/badge.svg)
+
 ## Overview
 
 The Frequent Rainfall Observations on GridS (FROGS) database
