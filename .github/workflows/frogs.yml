@@ -19,5 +19,5 @@ jobs:
           script: |
               module use /g/data3/hh5/public/modules
               module load conda/analysis3
-              cd /g/data/ia39/aus-ref-clim-data-nci/frogs/code
+              cd /g/data/jt48/aus-ref-clim-data-nci/frogs/code
               python3 frogs.py
