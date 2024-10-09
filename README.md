@@ -26,7 +26,7 @@ Updates of the original data are sporadic, we check if any update is available w
 We've downloaded FROGS data to:
 
 ```
-/g/data/ia39/aus-ref-clim-data-nci/frogs/data/1DD_V1/<dataset>/<files>
+/g/data/jt48/aus-ref-clim-data-nci/frogs/data/1DD_V1/<dataset>/<files>
 ```
 
 Each `<dataset>` is listed below depending on the source data type and spatial coverage.
